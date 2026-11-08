@@ -1,0 +1,2302 @@
+[
+ {
+  "ep": 27,
+  "s": 124.8,
+  "e": 150.5,
+  "score": {
+   "total": 15.34,
+   "hook": 6.2,
+   "cliff": 4.5,
+   "standalone": 2.5,
+   "dur": 25.7
+  },
+  "hook": "Lady Catherine: \"She admits she has been giving the Duchess poison in secret!\"",
+  "cliffhanger": "The guard twists Juliana around and drags her forcibly toward the doorway as she struggles against his grip.",
+  "segments": [
+   {
+    "episode": 27,
+    "start": "02:04.80",
+    "end": "02:30.50"
+   }
+  ],
+  "why": "Rule score 15.34 (hook 6.2, cliffhanger 4.5, standalone 2.5); episode context: The Dowager Duchess realizes Juliana's wedding ring bears the Ashbourne crest belonging to her lost son, but before Juliana can reveal Alexa",
+  "rank": 1
+ },
+ {
+  "ep": 44,
+  "s": 46.6,
+  "e": 70.5,
+  "score": {
+   "total": 15.34,
+   "hook": 6.2,
+   "cliff": 4.5,
+   "standalone": 2.5,
+   "dur": 23.9
+  },
+  "hook": "Catherine: \"I was supposed to be your Duchess!\"",
+  "cliffhanger": "Catherine: \"Her?!\"",
+  "segments": [
+   {
+    "episode": 44,
+    "start": "00:46.60",
+    "end": "01:10.50"
+   }
+  ],
+  "why": "Rule score 15.34 (hook 6.2, cliffhanger 4.5, standalone 2.5); episode context: As Lord Sterling and Rupert are apprehended by the Crown, Catherine pleads with Alexander for their past love, only to be coldly rejected as",
+  "rank": 2
+ },
+ {
+  "ep": 23,
+  "s": 86.0,
+  "e": 131.5,
+  "score": {
+   "total": 15.0,
+   "hook": 5.5,
+   "cliff": 4.5,
+   "standalone": 2.5,
+   "dur": 45.5
+  },
+  "hook": "Lady Juliana: \"Arsenic.\"",
+  "cliffhanger": "Prudence: \"Juliana... someone is coming.\"",
+  "segments": [
+   {
+    "episode": 23,
+    "start": "01:26.00",
+    "end": "02:11.50"
+   }
+  ],
+  "why": "Rule score 15.0 (hook 5.5, cliffhanger 4.5, standalone 2.5); episode context: After examining the dying Dowager Duchess's blackened fingernails and consulting her late mother's remedy journal, Lady Juliana discovers th",
+  "rank": 3
+ },
+ {
+  "ep": 15,
+  "s": 47.8,
+  "e": 86.0,
+  "score": {
+   "total": 14.64,
+   "hook": 4.2,
+   "cliff": 5.5,
+   "standalone": 2.5,
+   "dur": 38.2
+  },
+  "hook": "Juliana: \"Ah!\"",
+  "cliffhanger": "Thug With Cap: \"What? You want to fight us, veteran?\"",
+  "segments": [
+   {
+    "episode": 15,
+    "start": "00:47.80",
+    "end": "01:26.00"
+   }
+  ],
+  "why": "Rule score 14.64 (hook 4.2, cliffhanger 5.5, standalone 2.5); episode context: When ruthless thugs desecrate Juliana's medicinal garden and trample her late mother's herbs, a protective Alexander charges into the night ",
+  "rank": 4
+ },
+ {
+  "ep": 38,
+  "s": 45.5,
+  "e": 87.91,
+  "score": {
+   "total": 14.64,
+   "hook": 4.2,
+   "cliff": 5.5,
+   "standalone": 2.5,
+   "dur": 42.4
+  },
+  "hook": "Juliana: \"What if I die here?\"",
+  "cliffhanger": "Juliana: \"Alexander...\"",
+  "segments": [
+   {
+    "episode": 38,
+    "start": "00:45.50",
+    "end": "01:27.91"
+   }
+  ],
+  "why": "Rule score 14.64 (hook 4.2, cliffhanger 5.5, standalone 2.5); episode context: A compassionate guard secretly feeds Juliana bread in the dungeon, strengthening her resolve to protect Alexander's secrets just as distant ",
+  "rank": 5
+ },
+ {
+  "ep": 16,
+  "s": 49.8,
+  "e": 83.19,
+  "score": {
+   "total": 13.44,
+   "hook": 4.2,
+   "cliff": 4.5,
+   "standalone": 2.5,
+   "dur": 33.4
+  },
+  "hook": "Thug With Cap: \"Harrington! Gerald Harrington paid us!\"",
+  "cliffhanger": "Alexander and Juliana gaze deeply into each other's eyes, an unspoken bond forming between them as the ruined garden lies silent beneath the moon.",
+  "segments": [
+   {
+    "episode": 16,
+    "start": "00:49.80",
+    "end": "01:23.19"
+   }
+  ],
+  "why": "Rule score 13.44 (hook 4.2, cliffhanger 4.5, standalone 2.5); episode context: When hired thugs attack Juliana's medicinal garden, Alexander unleashes his combat training to effortlessly overpower them, extracting a sho",
+  "rank": 6
+ },
+ {
+  "ep": 32,
+  "s": 116.9,
+  "e": 154.38,
+  "score": {
+   "total": 13.44,
+   "hook": 4.2,
+   "cliff": 4.5,
+   "standalone": 2.5,
+   "dur": 37.5
+  },
+  "hook": "Juliana: \"...but you have never learned how to make anyone love you.\"",
+  "cliffhanger": "Juliana gasps, freezing as the glowing tip of the iron thrusts forward, stopping mere millimeters from her right eye.",
+  "segments": [
+   {
+    "episode": 32,
+    "start": "01:56.90",
+    "end": "02:34.38"
+   }
+  ],
+  "why": "Rule score 13.44 (hook 4.2, cliffhanger 4.5, standalone 2.5); episode context: Cornered and chained in the damp dungeon, Juliana shatters Catherine's cruelty with unshakeable dignity and the truth about love and worth, ",
+  "rank": 7
+ },
+ {
+  "ep": 35,
+  "s": 122.0,
+  "e": 157.5,
+  "score": {
+   "total": 13.44,
+   "hook": 4.2,
+   "cliff": 4.5,
+   "standalone": 2.5,
+   "dur": 35.5
+  },
+  "hook": "Alexander'S Mother: \"Then why did they never tell us?\"",
+  "cliffhanger": "Alexander: \"The men behind it... are the same men ruling Ashwood now.\"",
+  "segments": [
+   {
+    "episode": 35,
+    "start": "02:02.00",
+    "end": "02:37.50"
+   }
+  ],
+  "why": "Rule score 13.44 (hook 4.2, cliffhanger 4.5, standalone 2.5); episode context: Fleeing her captivity through a secret passage, Alexander's elderly mother treks through a bitter blizzard to a secluded cabin, where she te",
+  "rank": 8
+ },
+ {
+  "ep": 45,
+  "s": 81.5,
+  "e": 121.75,
+  "score": {
+   "total": 13.44,
+   "hook": 4.2,
+   "cliff": 4.5,
+   "standalone": 2.5,
+   "dur": 40.2
+  },
+  "hook": "Rupert: \"Juliana?!\"",
+  "cliffhanger": "Catherine raises her chin, a vindictive smirk spreading across her lips as she realizes her rival's claim has just been torn to pieces.",
+  "segments": [
+   {
+    "episode": 45,
+    "start": "01:21.50",
+    "end": "02:01.75"
+   }
+  ],
+  "why": "Rule score 13.44 (hook 4.2, cliffhanger 4.5, standalone 2.5); episode context: Alexander frees Juliana from her chains and proclaims her the Duchess of Ashburton before the stunned congregation, only for an ecclesiastic",
+  "rank": 9
+ },
+ {
+  "ep": 22,
+  "s": 96.0,
+  "e": 131.0,
+  "score": {
+   "total": 12.6,
+   "hook": 2.5,
+   "cliff": 5.5,
+   "standalone": 2.5,
+   "dur": 35.0
+  },
+  "hook": "Prudence: \"Do not stare. Keep walking.\"",
+  "cliffhanger": "Lady Juliana: \"Who has been treating you?\"",
+  "segments": [
+   {
+    "episode": 22,
+    "start": "01:36.00",
+    "end": "02:11.00"
+   }
+  ],
+  "why": "Rule score 12.6 (hook 2.5, cliffhanger 5.5, standalone 2.5); episode context: Disguised as a common scullery maid, Lady Juliana infiltrates Ashbury Manor alongside Prudence and slips into the forbidden West Wing, where",
+  "rank": 10
+ },
+ {
+  "ep": 28,
+  "s": 20.4,
+  "e": 52.1,
+  "score": {
+   "total": 12.6,
+   "hook": 5.5,
+   "cliff": 2.5,
+   "standalone": 2.5,
+   "dur": 31.7
+  },
+  "hook": "Blond Nobleman: \"But the guards know how to extract the truth.\"",
+  "cliffhanger": "Juliana: \"She's still weak, you cannot leave her like this!\"",
+  "segments": [
+   {
+    "episode": 28,
+    "start": "00:20.40",
+    "end": "00:52.10"
+   }
+  ],
+  "why": "Rule score 12.6 (hook 5.5, cliffhanger 2.5, standalone 2.5); episode context: Rupert and Catherine frame Juliana for poisoning the Duchess despite the bedridden matriarch's protests, uncovering Juliana's true noble ide",
+  "rank": 11
+ },
+ {
+  "ep": 42,
+  "s": 34.0,
+  "e": 77.8,
+  "score": {
+   "total": 12.6,
+   "hook": 3.5,
+   "cliff": 4.5,
+   "standalone": 2.5,
+   "dur": 43.8
+  },
+  "hook": "Alexander: \"And yet, here I stand. That is the lie you built your life upon.\"",
+  "cliffhanger": "Alexander: \"And now, Rupert... we settle what you stole.\"",
+  "segments": [
+   {
+    "episode": 42,
+    "start": "00:34.00",
+    "end": "01:17.80"
+   }
+  ],
+  "why": "Rule score 12.6 (hook 3.5, cliffhanger 4.5, standalone 2.5); episode context: Emerging from the smoke of the shattered cathedral gates in full ducal regalia, Alexander confronts Rupert, wins the loyalty of the royal gu",
+  "rank": 12
+ },
+ {
+  "ep": 3,
+  "s": 96.5,
+  "e": 145.75,
+  "score": {
+   "total": 12.24,
+   "hook": 3.2,
+   "cliff": 4.5,
+   "standalone": 2.5,
+   "dur": 49.2
+  },
+  "hook": "Noble Matriarch: \"You cannot interfere in a family matter!\"",
+  "cliffhanger": "Juliana gazes down at her rugged savior, overcome with emotion as the swelling score holds on the cliffhanger.",
+  "segments": [
+   {
+    "episode": 3,
+    "start": "01:36.50",
+    "end": "02:25.75"
+   }
+  ],
+  "why": "Rule score 12.24 (hook 3.2, cliffhanger 4.5, standalone 2.5); episode context: Banished from her mother's chapel and seized by guards at her family's command, Juliana is rescued by an imposing, scarred stranger who inte",
+  "rank": 13
+ },
+ {
+  "ep": 11,
+  "s": 81.3,
+  "e": 112.75,
+  "score": {
+   "total": 12.24,
+   "hook": 3.2,
+   "cliff": 4.5,
+   "standalone": 2.5,
+   "dur": 31.5
+  },
+  "hook": "Gerald: \"What is it, soldier? Going to strike a gentleman in front of his wife?\"",
+  "cliffhanger": "Gerald: \"There it is. Ha!\"",
+  "segments": [
+   {
+    "episode": 11,
+    "start": "01:21.30",
+    "end": "01:52.75"
+   }
+  ],
+  "why": "Rule score 12.24 (hook 3.2, cliffhanger 4.5, standalone 2.5); episode context: Gerald and Clarissa arrive at the cottage with an armed constable accusing Alexander of grand theft, culminating in a devastating planted di",
+  "rank": 14
+ },
+ {
+  "ep": 25,
+  "s": 137.4,
+  "e": 168.0,
+  "score": {
+   "total": 12.24,
+   "hook": 5.2,
+   "cliff": 2.5,
+   "standalone": 2.5,
+   "dur": 30.6
+  },
+  "hook": "Alexander: \"Worry? They struck you. They could have killed you.\"",
+  "cliffhanger": "Alexander turns, falling into step beside Juliana. Together, side by side, they begin their quiet walk down the darkening forest path into the twilight.",
+  "segments": [
+   {
+    "episode": 25,
+    "start": "02:17.40",
+    "end": "02:48.00"
+   }
+  ],
+  "why": "Rule score 12.24 (hook 5.2, cliffhanger 2.5, standalone 2.5); episode context: Deep in the misty forest, Alexander confronts an injured Juliana and uncovers the wound inflicted by Lady Catherine, reacting with fury and ",
+  "rank": 15
+ },
+ {
+  "ep": 30,
+  "s": 120.0,
+  "e": 151.21,
+  "score": {
+   "total": 12.24,
+   "hook": 3.2,
+   "cliff": 4.5,
+   "standalone": 2.5,
+   "dur": 31.2
+  },
+  "hook": "Rupert: \"And Juliana?\"",
+  "cliffhanger": "Juliana clutches a rough burlap rag to her trembling chest, her tear-stained face lifting upward in dread and fragile hope as the frame holds, cutting abruptly to black.",
+  "segments": [
+   {
+    "episode": 30,
+    "start": "02:00.00",
+    "end": "02:31.21"
+   }
+  ],
+  "why": "Rule score 12.24 (hook 3.2, cliffhanger 4.5, standalone 2.5); episode context: When rumors of the poisoned Duchess begin spreading among the servants, Rupert and Catherine conspire with an elder nobleman to fabricate a ",
+  "rank": 16
+ },
+ {
+  "ep": 31,
+  "s": 118.4,
+  "e": 160.0,
+  "score": {
+   "total": 12.24,
+   "hook": 3.2,
+   "cliff": 4.5,
+   "standalone": 2.5,
+   "dur": 41.6
+  },
+  "hook": "Juliana: \"Then why are you so desperate to make me kneel?\"",
+  "cliffhanger": "Juliana recoils back against the hard dungeon wall, gasping for breath in raw terror as the searing iron stops inches from her eyes.",
+  "segments": [
+   {
+    "episode": 31,
+    "start": "01:58.40",
+    "end": "02:40.00"
+   }
+  ],
+  "why": "Rule score 12.24 (hook 3.2, cliffhanger 4.5, standalone 2.5); episode context: Catherine enters the wet cells armed with a red-hot iron and Juliana's late mother's botanical book, subjecting the chained heiress to ruthl",
+  "rank": 17
+ },
+ {
+  "ep": 36,
+  "s": 160.5,
+  "e": 200.75,
+  "score": {
+   "total": 12.24,
+   "hook": 3.2,
+   "cliff": 4.5,
+   "standalone": 2.5,
+   "dur": 40.2
+  },
+  "hook": "Alexander: \"...and killing my wife afterward.\"",
+  "cliffhanger": "Alexander stares resolutely ahead into the dark, snowy woods as the camera holds on his grim, determined expression before cutting to black.",
+  "segments": [
+   {
+    "episode": 36,
+    "start": "02:40.50",
+    "end": "03:20.75"
+   }
+  ],
+  "why": "Rule score 12.24 (hook 3.2, cliffhanger 4.5, standalone 2.5); episode context: Learning from his mother that Rupert and Catherine framed Juliana for witchcraft and sentenced her to death right after their upcoming weddi",
+  "rank": 18
+ },
+ {
+  "ep": 49,
+  "s": 104.2,
+  "e": 144.75,
+  "score": {
+   "total": 12.24,
+   "hook": 3.2,
+   "cliff": 4.5,
+   "standalone": 2.5,
+   "dur": 40.5
+  },
+  "hook": "Father Thomas: \"If I keep the hearing open, if I feed you every word spoken behind those doors, what happens to me when the Duke finds out a crowned priest conspired against him?\"",
+  "cliffhanger": "Catherine: \"We always have.\"",
+  "segments": [
+   {
+    "episode": 49,
+    "start": "01:44.20",
+    "end": "02:24.75"
+   }
+  ],
+  "why": "Rule score 12.24 (hook 3.2, cliffhanger 4.5, standalone 2.5); episode context: Meeting Father Thomas in an abandoned wing of the manor before dawn, Catherine orchestrates a calculated conspiracy to stall the council hea",
+  "rank": 19
+ },
+ {
+  "ep": 5,
+  "s": 70.5,
+  "e": 110.5,
+  "score": {
+   "total": 12.0,
+   "hook": 3,
+   "cliff": 4.5,
+   "standalone": 2.5,
+   "dur": 40.0
+  },
+  "hook": "The Mysterious Bearded Man bends his knees and kneels down beside Juliana, extending his scarred hand to retrieve the fallen ledger.",
+  "cliffhanger": "Mysterious Bearded Man: \"Come.\"",
+  "segments": [
+   {
+    "episode": 5,
+    "start": "01:10.50",
+    "end": "01:50.50"
+   }
+  ],
+  "why": "Rule score 12.0 (hook 3, cliffhanger 4.5, standalone 2.5); episode context: Formally disowned and stripped of her inheritance, Juliana is publicly humiliated when her stepmother throws her late mother's treasured led",
+  "rank": 20
+ },
+ {
+  "ep": 19,
+  "s": 79.0,
+  "e": 119.63,
+  "score": {
+   "total": 12.0,
+   "hook": 4.5,
+   "cliff": 3,
+   "standalone": 2.5,
+   "dur": 40.6
+  },
+  "hook": "Informant: \"And everyone believes you are dead.\"",
+  "cliffhanger": "Alexander sits down beside her in the straw. Juliana leans gently against his shoulder, letting her weary head rest against his broad chest.",
+  "segments": [
+   {
+    "episode": 19,
+    "start": "01:19.00",
+    "end": "01:59.63"
+   }
+  ],
+  "why": "Rule score 12.0 (hook 4.5, cliffhanger 3, standalone 2.5); episode context: Standing before the smoldering ash of their home, Juliana and Alexander receive shelter and food from grateful villagers before Alexander me",
+  "rank": 21
+ },
+ {
+  "ep": 26,
+  "s": 90.8,
+  "e": 120.88,
+  "score": {
+   "total": 12.0,
+   "hook": 3,
+   "cliff": 4.5,
+   "standalone": 2.5,
+   "dur": 30.1
+  },
+  "hook": "The Duchess's mouth hangs open in pure disbelief as she stares fixedly at Juliana's hand.",
+  "cliffhanger": "Dowager Duchess: \"Where... where... Where did you get this ring? Speak to me!\"",
+  "segments": [
+   {
+    "episode": 26,
+    "start": "01:30.80",
+    "end": "02:00.88"
+   }
+  ],
+  "why": "Rule score 12.0 (hook 3, cliffhanger 4.5, standalone 2.5); episode context: While secretly administering a charcoal antidote to the poisoned Dowager Duchess in the dead of night, Juliana is stunned when the Duchess s",
+  "rank": 22
+ },
+ {
+  "ep": 46,
+  "s": 101.8,
+  "e": 143.88,
+  "score": {
+   "total": 12.0,
+   "hook": 4.5,
+   "cliff": 3,
+   "standalone": 2.5,
+   "dur": 42.1
+  },
+  "hook": "Alexander: \"A Duke's marriage is judged by the Crown's peerage court, not by a parish priest's seal.\"",
+  "cliffhanger": "Catherine: \"Ten days is plenty of time.\"",
+  "segments": [
+   {
+    "episode": 46,
+    "start": "01:41.80",
+    "end": "02:23.88"
+   }
+  ],
+  "why": "Rule score 12.0 (hook 4.5, cliffhanger 3, standalone 2.5); episode context: The High Priest places the sanctuary under Crown seizure and invalidates Alexander and Juliana's wedding for lack of royal license, promptin",
+  "rank": 23
+ },
+ {
+  "ep": 43,
+  "s": 16.2,
+  "e": 60.0,
+  "score": {
+   "total": 11.94,
+   "hook": 6.2,
+   "cliff": 2.5,
+   "standalone": 1,
+   "dur": 43.8
+  },
+  "hook": "Blond Nobleman: \"I am Lord Rupert Ashburn!\"",
+  "cliffhanger": "Alexander: \"Read the names.\"",
+  "segments": [
+   {
+    "episode": 43,
+    "start": "00:16.20",
+    "end": "01:00.00"
+   }
+  ],
+  "why": "Rule score 11.94 (hook 6.2, cliffhanger 2.5, standalone 1); episode context: When Rupert frantically orders Alexander's arrest, the royal guards refuse and salute the true Duke, before damning Crown intelligence docum",
+  "rank": 24
+ },
+ {
+  "ep": 1,
+  "s": 117.0,
+  "e": 138.0,
+  "score": {
+   "total": 11.74,
+   "hook": 3.2,
+   "cliff": 4.5,
+   "standalone": 2.5,
+   "dur": 21.0
+  },
+  "hook": "Lady Juliana: \"So that is what I was worth to you?\"",
+  "cliffhanger": "Juliana breathes through the agony, refusing to break down further in front of the congregation.",
+  "segments": [
+   {
+    "episode": 1,
+    "start": "01:57.00",
+    "end": "02:18.00"
+   }
+  ],
+  "why": "Rule score 11.74 (hook 3.2, cliffhanger 4.5, standalone 2.5); episode context: Lady Juliana arrives at the cathedral in her late mother's bridal gown, only to suffer the ultimate betrayal when her fianc\u00e9 Gerald abandons",
+  "rank": 25
+ },
+ {
+  "ep": 23,
+  "s": 60.8,
+  "e": 84.0,
+  "score": {
+   "total": 11.74,
+   "hook": 5.2,
+   "cliff": 2.5,
+   "standalone": 2.5,
+   "dur": 23.2
+  },
+  "hook": "Prudence: \"What is it?\"",
+  "cliffhanger": "Prudence: \"Poison?\"",
+  "segments": [
+   {
+    "episode": 23,
+    "start": "01:00.80",
+    "end": "01:24.00"
+   }
+  ],
+  "why": "Rule score 11.74 (hook 5.2, cliffhanger 2.5, standalone 2.5); episode context: After examining the dying Dowager Duchess's blackened fingernails and consulting her late mother's remedy journal, Lady Juliana discovers th",
+  "rank": 26
+ },
+ {
+  "ep": 29,
+  "s": 53.8,
+  "e": 112.6,
+  "score": {
+   "total": 11.74,
+   "hook": 5.2,
+   "cliff": 2.5,
+   "standalone": 2.5,
+   "dur": 58.8
+  },
+  "hook": "Catherine: \"...no one will remember what was written inside.\"",
+  "cliffhanger": "Juliana: \"They took her locket. But they will not take Alexander from me.\"",
+  "segments": [
+   {
+    "episode": 29,
+    "start": "00:53.80",
+    "end": "01:52.60"
+   }
+  ],
+  "why": "Rule score 11.74 (hook 5.2, cliffhanger 2.5, standalone 2.5); episode context: Thrown into the castle's subterranean wet cells as Catherine threatens to burn her mother's herbarium and frame her for witchcraft, Juliana ",
+  "rank": 27
+ },
+ {
+  "ep": 43,
+  "s": 72.8,
+  "e": 114.96000000000001,
+  "score": {
+   "total": 11.7,
+   "hook": 4.5,
+   "cliff": 4,
+   "standalone": 1,
+   "dur": 42.2
+  },
+  "hook": "Alexander: \"And when you believed I was dead...\"",
+  "cliffhanger": "Police Constable: \"Going somewhere, Lord Sterling?\"",
+  "segments": [
+   {
+    "episode": 43,
+    "start": "01:12.80",
+    "end": "01:54.96"
+   }
+  ],
+  "why": "Rule score 11.7 (hook 4.5, cliffhanger 4, standalone 1); episode context: When Rupert frantically orders Alexander's arrest, the royal guards refuse and salute the true Duke, before damning Crown intelligence docum",
+  "rank": 28
+ },
+ {
+  "ep": 10,
+  "s": 49.7,
+  "e": 94.0,
+  "score": {
+   "total": 11.64,
+   "hook": 4.2,
+   "cliff": 3,
+   "standalone": 2.5,
+   "dur": 44.3
+  },
+  "hook": "Juliana: \"Your scars disagree.\"",
+  "cliffhanger": "Alexander: \"Your touch is the only medicine that has ever eased my pain.\"",
+  "segments": [
+   {
+    "episode": 10,
+    "start": "00:49.70",
+    "end": "01:34.00"
+   }
+  ],
+  "why": "Rule score 11.64 (hook 4.2, cliffhanger 3, standalone 2.5); episode context: When Alexander returns to the cottage gravely wounded and soaked in blood, Juliana tends to his injuries, leading to an intimate confrontati",
+  "rank": 29
+ },
+ {
+  "ep": 13,
+  "s": 80.8,
+  "e": 118.88,
+  "score": {
+   "total": 11.64,
+   "hook": 4.2,
+   "cliff": 3,
+   "standalone": 2.5,
+   "dur": 38.1
+  },
+  "hook": "Alexander: \"Stop!\"",
+  "cliffhanger": "Juliana reaches out her torn, bloodied hand and wraps her fingers tightly around the emerald ring.",
+  "segments": [
+   {
+    "episode": 13,
+    "start": "01:20.80",
+    "end": "01:58.88"
+   }
+  ],
+  "why": "Rule score 11.64 (hook 4.2, cliffhanger 3, standalone 2.5); episode context: Defying Alexander's desperate pleas, Juliana crawls barehanded into the razor-sharp blackthorn garden, enduring brutal lacerations under Cla",
+  "rank": 30
+ },
+ {
+  "ep": 33,
+  "s": 140.5,
+  "e": 174.04,
+  "score": {
+   "total": 11.64,
+   "hook": 4.2,
+   "cliff": 3,
+   "standalone": 2.5,
+   "dur": 33.5
+  },
+  "hook": "Maid: \"I never said she was a witch!\"",
+  "cliffhanger": "The heartbroken maid weeps silently in the shadow of the desk, consumed by guilt and powerlessness.",
+  "segments": [
+   {
+    "episode": 33,
+    "start": "02:20.50",
+    "end": "02:54.04"
+   }
+  ],
+  "why": "Rule score 11.64 (hook 4.2, cliffhanger 3, standalone 2.5); episode context: Under cruel coercion and threats to send her seven-year-old brother to the county gaol, a young maid is manipulated into giving false testim",
+  "rank": 31
+ },
+ {
+  "ep": 44,
+  "s": 11.4,
+  "e": 46.4,
+  "score": {
+   "total": 11.64,
+   "hook": 6.2,
+   "cliff": 1,
+   "standalone": 2.5,
+   "dur": 35.0
+  },
+  "hook": "Police Constable: \"I have more than enough.\"",
+  "cliffhanger": "Catherine: \"You don't remember?\"",
+  "segments": [
+   {
+    "episode": 44,
+    "start": "00:11.40",
+    "end": "00:46.40"
+   }
+  ],
+  "why": "Rule score 11.64 (hook 6.2, cliffhanger 1, standalone 2.5); episode context: As Lord Sterling and Rupert are apprehended by the Crown, Catherine pleads with Alexander for their past love, only to be coldly rejected as",
+  "rank": 32
+ },
+ {
+  "ep": 9,
+  "s": 95.3,
+  "e": 115.5,
+  "score": {
+   "total": 11.5,
+   "hook": 4.5,
+   "cliff": 3,
+   "standalone": 2.5,
+   "dur": 20.2
+  },
+  "hook": "Blond Nobleman: \"People see ghosts whenever they want a story.\"",
+  "cliffhanger": "Blond Nobleman: \"Impossible.\"",
+  "segments": [
+   {
+    "episode": 9,
+    "start": "01:35.30",
+    "end": "01:55.50"
+   }
+  ],
+  "why": "Rule score 11.5 (hook 4.5, cliffhanger 3, standalone 2.5); episode context: When a frantic mother brings her critically ill child to the woodland cottage, Juliana successfully cures him with her mother's herbal remed",
+  "rank": 33
+ },
+ {
+  "ep": 6,
+  "s": 70.1,
+  "e": 115.0,
+  "score": {
+   "total": 11.4,
+   "hook": 2.5,
+   "cliff": 4.5,
+   "standalone": 2.5,
+   "dur": 44.9
+  },
+  "hook": "Juliana: \"If I stop now, I will think about everything I lost.\"",
+  "cliffhanger": "Juliana: \"Sitting here with him, I don't feel afraid.\"",
+  "segments": [
+   {
+    "episode": 6,
+    "start": "01:10.10",
+    "end": "01:55.00"
+   }
+  ],
+  "why": "Rule score 11.4 (hook 2.5, cliffhanger 4.5, standalone 2.5); episode context: Seeking shelter from the cold rain, Juliana arrives at her new husband's modest woodland cottage and discovers an unexpected sense of peace ",
+  "rank": 34
+ },
+ {
+  "ep": 24,
+  "s": 33.8,
+  "e": 74.5,
+  "score": {
+   "total": 11.4,
+   "hook": 4.5,
+   "cliff": 2.5,
+   "standalone": 2.5,
+   "dur": 40.7
+  },
+  "hook": "Noblewoman: \"You are a maid.\"",
+  "cliffhanger": "Juliana grips a coarse scrubbing brush with both hands and begins vigorously scraping the thick black ash across the hearthstones.",
+  "segments": [
+   {
+    "episode": 24,
+    "start": "00:33.80",
+    "end": "01:14.50"
+   }
+  ],
+  "why": "Rule score 11.4 (hook 4.5, cliffhanger 2.5, standalone 2.5); episode context: When an arrogant noblewoman catches Juliana in the poisoned Dowager Duchess's chambers, she strikes Juliana with a riding crop and sentences",
+  "rank": 35
+ },
+ {
+  "ep": 28,
+  "s": 64.9,
+  "e": 97.0,
+  "score": {
+   "total": 11.4,
+   "hook": 4.5,
+   "cliff": 2.5,
+   "standalone": 2.5,
+   "dur": 32.1
+  },
+  "hook": "Catherine: \"...is the maid who claims to have discovered it.\"",
+  "cliffhanger": "Juliana gasps in horror, realizing her secret identity has been laid bare.",
+  "segments": [
+   {
+    "episode": 28,
+    "start": "01:04.90",
+    "end": "01:37.00"
+   }
+  ],
+  "why": "Rule score 11.4 (hook 4.5, cliffhanger 2.5, standalone 2.5); episode context: Rupert and Catherine frame Juliana for poisoning the Duchess despite the bedridden matriarch's protests, uncovering Juliana's true noble ide",
+  "rank": 36
+ },
+ {
+  "ep": 36,
+  "s": 117.5,
+  "e": 153.0,
+  "score": {
+   "total": 11.04,
+   "hook": 4.2,
+   "cliff": 2.5,
+   "standalone": 2.5,
+   "dur": 35.5
+  },
+  "hook": "Alexander: \"You told them the truth!\"",
+  "cliffhanger": "Alexander'S Mother: \"Rupert... and Catherine's.\"",
+  "segments": [
+   {
+    "episode": 36,
+    "start": "01:57.50",
+    "end": "02:33.00"
+   }
+  ],
+  "why": "Rule score 11.04 (hook 4.2, cliffhanger 2.5, standalone 2.5); episode context: Learning from his mother that Rupert and Catherine framed Juliana for witchcraft and sentenced her to death right after their upcoming weddi",
+  "rank": 37
+ },
+ {
+  "ep": 45,
+  "s": 22.9,
+  "e": 66.8,
+  "score": {
+   "total": 11.04,
+   "hook": 5.2,
+   "cliff": 1.5,
+   "standalone": 2.5,
+   "dur": 43.9
+  },
+  "hook": "Juliana: \"You're the Duke?\"",
+  "cliffhanger": "Alexander: \"You hurt the two women who mattered most to me: my mother, and my wife.\"",
+  "segments": [
+   {
+    "episode": 45,
+    "start": "00:22.90",
+    "end": "01:06.80"
+   }
+  ],
+  "why": "Rule score 11.04 (hook 5.2, cliffhanger 1.5, standalone 2.5); episode context: Alexander frees Juliana from her chains and proclaims her the Duchess of Ashburton before the stunned congregation, only for an ecclesiastic",
+  "rank": 38
+ },
+ {
+  "ep": 2,
+  "s": 0.0,
+  "e": 23.7,
+  "score": {
+   "total": 10.9,
+   "hook": 5.5,
+   "cliff": 1.5,
+   "standalone": 2.5,
+   "dur": 23.7
+  },
+  "hook": "The Former Groom: \"I cannot marry you, Juliana.\"",
+  "cliffhanger": "The Former Groom: \"Promises change when a better choice appears.\"",
+  "segments": [
+   {
+    "episode": 2,
+    "start": "00:00.00",
+    "end": "00:23.70"
+   }
+  ],
+  "why": "Rule score 10.9 (hook 5.5, cliffhanger 1.5, standalone 2.5); episode context: Publicly cast aside at the altar by Gerald for her sister Clarissa and abandoned by her own family, Juliana stands tall and turns her public",
+  "rank": 39
+ },
+ {
+  "ep": 4,
+  "s": 123.0,
+  "e": 151.4,
+  "score": {
+   "total": 10.9,
+   "hook": 2.5,
+   "cliff": 4.5,
+   "standalone": 2.5,
+   "dur": 28.4
+  },
+  "hook": "Juliana: \"...than spend another moment begging for yours.\"",
+  "cliffhanger": "Juliana and the Mysterious Bearded Man walk hand-in-hand through the towering doors into the sunlight together, turning their backs on the ruined wedding as the screen fades out.",
+  "segments": [
+   {
+    "episode": 4,
+    "start": "02:03.00",
+    "end": "02:31.40"
+   }
+  ],
+  "why": "Rule score 10.9 (hook 2.5, cliffhanger 4.5, standalone 2.5); episode context: Defying Gerald and Clarissa's cruel mockery, Juliana accepts the mysterious scarred warrior's solemn proposal and is officially wed, choosin",
+  "rank": 40
+ },
+ {
+  "ep": 14,
+  "s": 35.8,
+  "e": 87.63,
+  "score": {
+   "total": 10.9,
+   "hook": 2.5,
+   "cliff": 4.5,
+   "standalone": 2.5,
+   "dur": 51.8
+  },
+  "hook": "Alexander: \"You should never have had to bleed for me.\"",
+  "cliffhanger": "Alexander's muscular arm drops into frame beside the bloody bucket; his scarred knuckles slowly and tightly clench into an iron fist of brewing vengeance.",
+  "segments": [
+   {
+    "episode": 14,
+    "start": "00:35.80",
+    "end": "01:27.63"
+   }
+  ],
+  "why": "Rule score 10.9 (hook 2.5, cliffhanger 4.5, standalone 2.5); episode context: After Juliana secures Alexander's freedom with the unearthed emerald signet ring, he carries her home to bandage her torn hands, silently sw",
+  "rank": 41
+ },
+ {
+  "ep": 20,
+  "s": 15.4,
+  "e": 39.1,
+  "score": {
+   "total": 10.9,
+   "hook": 4.5,
+   "cliff": 2.5,
+   "standalone": 2.5,
+   "dur": 23.7
+  },
+  "hook": "Catherine: \"'Practically' is a word for beggars. I do not marry a practical Duke.\"",
+  "cliffhanger": "Catherine: \"How much longer can the frail thing survive?\"",
+  "segments": [
+   {
+    "episode": 20,
+    "start": "00:15.40",
+    "end": "00:39.10"
+   }
+  ],
+  "why": "Rule score 10.9 (hook 4.5, cliffhanger 2.5, standalone 2.5); episode context: Inside the opulent Ashbury estate, the treacherous Rupert and Catherine plot to seize the ducal title as the Dowager Duchess slowly withers,",
+  "rank": 42
+ },
+ {
+  "ep": 39,
+  "s": 48.2,
+  "e": 98.0,
+  "score": {
+   "total": 10.8,
+   "hook": 3.5,
+   "cliff": 3,
+   "standalone": 2.5,
+   "dur": 49.8
+  },
+  "hook": "Loyalist Fighter: \"Tell the Duke.\"",
+  "cliffhanger": "Alexander: \"And I am bringing my wife home.\"",
+  "segments": [
+   {
+    "episode": 39,
+    "start": "00:48.20",
+    "end": "01:38.00"
+   }
+  ],
+  "why": "Rule score 10.8 (hook 3.5, cliffhanger 3, standalone 2.5); episode context: While Alexander's loyal men infiltrate and neutralize the royal guards stationed outside the cathedral, Alexander sheds his rugged disguise,",
+  "rank": 43
+ },
+ {
+  "ep": 48,
+  "s": 30.9,
+  "e": 80.0,
+  "score": {
+   "total": 10.8,
+   "hook": 3.5,
+   "cliff": 3,
+   "standalone": 2.5,
+   "dur": 49.1
+  },
+  "hook": "Catherine: \"Lock it.\"",
+  "cliffhanger": "Catherine: \"And make sure no one sees him arrive.\"",
+  "segments": [
+   {
+    "episode": 48,
+    "start": "00:30.90",
+    "end": "01:20.00"
+   }
+  ],
+  "why": "Rule score 10.8 (hook 3.5, cliffhanger 3, standalone 2.5); episode context: While feigning submission after her public humiliation, Catherine schemes in secret, plotting to use the council's ten-day reprieve to strik",
+  "rank": 44
+ },
+ {
+  "ep": 20,
+  "s": 69.2,
+  "e": 114.75,
+  "score": {
+   "total": 10.74,
+   "hook": 3.2,
+   "cliff": 4.5,
+   "standalone": 1,
+   "dur": 45.5
+  },
+  "hook": "Juliana: \"I do not yield to a cold draft.\"",
+  "cliffhanger": "Catherine: \"This house will only bow to me.\"",
+  "segments": [
+   {
+    "episode": 20,
+    "start": "01:09.20",
+    "end": "01:54.75"
+   }
+  ],
+  "why": "Rule score 10.74 (hook 3.2, cliffhanger 4.5, standalone 1); episode context: Inside the opulent Ashbury estate, the treacherous Rupert and Catherine plot to seize the ducal title as the Dowager Duchess slowly withers,",
+  "rank": 45
+ },
+ {
+  "ep": 3,
+  "s": 40.5,
+  "e": 68.1,
+  "score": {
+   "total": 10.54,
+   "hook": 5.2,
+   "cliff": 1.5,
+   "standalone": 2.5,
+   "dur": 27.6
+  },
+  "hook": "Noble Matriarch: \"You leave.\"",
+  "cliffhanger": "The Bearded Stranger steps deliberately into the aisle, his heavy boots echoing.",
+  "segments": [
+   {
+    "episode": 3,
+    "start": "00:40.50",
+    "end": "01:08.10"
+   }
+  ],
+  "why": "Rule score 10.54 (hook 5.2, cliffhanger 1.5, standalone 2.5); episode context: Banished from her mother's chapel and seized by guards at her family's command, Juliana is rescued by an imposing, scarred stranger who inte",
+  "rank": 46
+ },
+ {
+  "ep": 1,
+  "s": 73.1,
+  "e": 113.0,
+  "score": {
+   "total": 10.44,
+   "hook": 5.2,
+   "cliff": 1,
+   "standalone": 2.5,
+   "dur": 39.9
+  },
+  "hook": "Lady Juliana: \"How long?\"",
+  "cliffhanger": "Lady In Gold Gown: \"I am the daughter they choose.\"",
+  "segments": [
+   {
+    "episode": 1,
+    "start": "01:13.10",
+    "end": "01:53.00"
+   }
+  ],
+  "why": "Rule score 10.44 (hook 5.2, cliffhanger 1, standalone 2.5); episode context: Lady Juliana arrives at the cathedral in her late mother's bridal gown, only to suffer the ultimate betrayal when her fianc\u00e9 Gerald abandons",
+  "rank": 47
+ },
+ {
+  "ep": 34,
+  "s": 157.0,
+  "e": 190.0,
+  "score": {
+   "total": 10.44,
+   "hook": 2.2,
+   "cliff": 4,
+   "standalone": 2.5,
+   "dur": 33.0
+  },
+  "hook": "Judge: \"You understand that refusal may be treated as proof that you knowingly practiced witchcraft?\"",
+  "cliffhanger": "The Judge extends his raised hand high in judgment over Lady Juliana as the scene holds on her standing still and unbroken before fading to black.",
+  "segments": [
+   {
+    "episode": 34,
+    "start": "02:37.00",
+    "end": "03:10.00"
+   }
+  ],
+  "why": "Rule score 10.44 (hook 2.2, cliffhanger 4, standalone 2.5); episode context: Put on trial for witchcraft and poisoning, Lady Juliana stands proud and defiant in the prisoner's dock, refusing to renounce her mother's h",
+  "rank": 48
+ },
+ {
+  "ep": 47,
+  "s": 101.5,
+  "e": 134.0,
+  "score": {
+   "total": 10.44,
+   "hook": 3.2,
+   "cliff": 3,
+   "standalone": 2.5,
+   "dur": 32.5
+  },
+  "hook": "Catherine: \"You expect me to scrub floors before these commoners?\"",
+  "cliffhanger": "Catherine: \"I accept, Your Grace.\"",
+  "segments": [
+   {
+    "episode": 47,
+    "start": "01:41.50",
+    "end": "02:14.00"
+   }
+  ],
+  "why": "Rule score 10.44 (hook 3.2, cliffhanger 3, standalone 2.5); episode context: While Alexander reassures Juliana of their unbreakable bond amid the council's opposition, a destitute Catherine begs for sanctuary at Ashbo",
+  "rank": 49
+ },
+ {
+  "ep": 4,
+  "s": 34.0,
+  "e": 83.8,
+  "score": {
+   "total": 10.2,
+   "hook": 3.5,
+   "cliff": 2.5,
+   "standalone": 2.5,
+   "dur": 49.8
+  },
+  "hook": "Mysterious Bearded Man: \"A woman who was betrayed.\"",
+  "cliffhanger": "The Priest: \"My- My Lady...\"",
+  "segments": [
+   {
+    "episode": 4,
+    "start": "00:34.00",
+    "end": "01:23.80"
+   }
+  ],
+  "why": "Rule score 10.2 (hook 3.5, cliffhanger 2.5, standalone 2.5); episode context: Defying Gerald and Clarissa's cruel mockery, Juliana accepts the mysterious scarred warrior's solemn proposal and is officially wed, choosin",
+  "rank": 50
+ },
+ {
+  "ep": 18,
+  "s": 158.0,
+  "e": 192.0,
+  "score": {
+   "total": 10.2,
+   "hook": 2.5,
+   "cliff": 3.5,
+   "standalone": 2.5,
+   "dur": 34.0
+  },
+  "hook": "Alexander: \"Someone wanted us out.\"",
+  "cliffhanger": "Juliana: \"What are you going to do?\"",
+  "segments": [
+   {
+    "episode": 18,
+    "start": "02:38.00",
+    "end": "03:12.00"
+   }
+  ],
+  "why": "Rule score 10.2 (hook 2.5, cliffhanger 3.5, standalone 2.5); episode context: When their cottage is deliberately set ablaze in the dead of night, Alexander risks his life to rescue Juliana and her mother's cherished le",
+  "rank": 51
+ },
+ {
+  "ep": 35,
+  "s": 48.0,
+  "e": 97.0,
+  "score": {
+   "total": 10.2,
+   "hook": 3.5,
+   "cliff": 2.5,
+   "standalone": 2.5,
+   "dur": 49.0
+  },
+  "hook": "Alexander: \"Mother.\"",
+  "cliffhanger": "Alexander: \"We were close to finding him.\"",
+  "segments": [
+   {
+    "episode": 35,
+    "start": "00:48.00",
+    "end": "01:37.00"
+   }
+  ],
+  "why": "Rule score 10.2 (hook 3.5, cliffhanger 2.5, standalone 2.5); episode context: Fleeing her captivity through a secret passage, Alexander's elderly mother treks through a bitter blizzard to a secluded cabin, where she te",
+  "rank": 52
+ },
+ {
+  "ep": 2,
+  "s": 74.4,
+  "e": 110.0,
+  "score": {
+   "total": 9.84,
+   "hook": 3.2,
+   "cliff": 2.5,
+   "standalone": 2.5,
+   "dur": 35.6
+  },
+  "hook": "Lady Juliana: \"Dignity?\"",
+  "cliffhanger": "Juliana breathes with steady resolve, holding her head high as the solemn orchestral score swells into the final beat.",
+  "segments": [
+   {
+    "episode": 2,
+    "start": "01:14.40",
+    "end": "01:50.00"
+   }
+  ],
+  "why": "Rule score 9.84 (hook 3.2, cliffhanger 2.5, standalone 2.5); episode context: Publicly cast aside at the altar by Gerald for her sister Clarissa and abandoned by her own family, Juliana stands tall and turns her public",
+  "rank": 53
+ },
+ {
+  "ep": 21,
+  "s": 72.0,
+  "e": 114.0,
+  "score": {
+   "total": 9.84,
+   "hook": 3.2,
+   "cliff": 2.5,
+   "standalone": 2.5,
+   "dur": 42.0
+  },
+  "hook": "Prudence: \"Oh, thank God! His chest is quiet! The rattling has stopped!\"",
+  "cliffhanger": "Lady Juliana sits motionless at the rustic wooden table, her bandaged hands holding open her late mother's leather-bound herbal ledger. Her eyes reflect deep apprehension as the dire truth settles over her.",
+  "segments": [
+   {
+    "episode": 21,
+    "start": "01:12.00",
+    "end": "01:54.00"
+   }
+  ],
+  "why": "Rule score 9.84 (hook 3.2, cliffhanger 2.5, standalone 2.5); episode context: After defying her own despair to cure a fever-stricken village boy with her mother's herbal remedies, Lady Juliana learns that the Dowager D",
+  "rank": 54
+ },
+ {
+  "ep": 33,
+  "s": 79.6,
+  "e": 111.5,
+  "score": {
+   "total": 9.84,
+   "hook": 3.2,
+   "cliff": 2.5,
+   "standalone": 2.5,
+   "dur": 31.9
+  },
+  "hook": "Lord: \"The truth.\"",
+  "cliffhanger": "Lord: \"Praying... or chanting?\"",
+  "segments": [
+   {
+    "episode": 33,
+    "start": "01:19.60",
+    "end": "01:51.50"
+   }
+  ],
+  "why": "Rule score 9.84 (hook 3.2, cliffhanger 2.5, standalone 2.5); episode context: Under cruel coercion and threats to send her seven-year-old brother to the county gaol, a young maid is manipulated into giving false testim",
+  "rank": 55
+ },
+ {
+  "ep": 30,
+  "s": 26.5,
+  "e": 47.3,
+  "score": {
+   "total": 9.7,
+   "hook": 3.5,
+   "cliff": 2.5,
+   "standalone": 2.5,
+   "dur": 20.8
+  },
+  "hook": "Rupert: \"She knows the Duchess was poisoned.\"",
+  "cliffhanger": "Elder Nobleman: \"We stop hiding the prisoner.\"",
+  "segments": [
+   {
+    "episode": 30,
+    "start": "00:26.50",
+    "end": "00:47.30"
+   }
+  ],
+  "why": "Rule score 9.7 (hook 3.5, cliffhanger 2.5, standalone 2.5); episode context: When rumors of the poisoned Duchess begin spreading among the servants, Rupert and Catherine conspire with an elder nobleman to fabricate a ",
+  "rank": 56
+ },
+ {
+  "ep": 7,
+  "s": 90.1,
+  "e": 116.0,
+  "score": {
+   "total": 9.64,
+   "hook": 4.2,
+   "cliff": 3,
+   "standalone": 1,
+   "dur": 25.9
+  },
+  "hook": "Gerald: \"We are leaving.\"",
+  "cliffhanger": "Scarred Bearded Man: \"I didn't need to.\"",
+  "segments": [
+   {
+    "episode": 7,
+    "start": "01:30.10",
+    "end": "01:56.00"
+   }
+  ],
+  "why": "Rule score 9.64 (hook 4.2, cliffhanger 3, standalone 1); episode context: When Gerald and his spiteful companion arrive at the woodland cottage to mock Juliana's fallen status, her stoic new husband returns from th",
+  "rank": 57
+ },
+ {
+  "ep": 41,
+  "s": 61.0,
+  "e": 93.5,
+  "score": {
+   "total": 9.6,
+   "hook": 2.5,
+   "cliff": 3.0,
+   "standalone": 2.5,
+   "dur": 32.5
+  },
+  "hook": "Catherine: \"Still arrogant. Still standing.\"",
+  "cliffhanger": "Silhouetted armed figures emerge through the smoke and rubble of the breached doorway. Juliana slowly turns her head, glancing back toward the light.",
+  "segments": [
+   {
+    "episode": 41,
+    "start": "01:01.00",
+    "end": "01:33.50"
+   }
+  ],
+  "why": "Rule score 9.6 (hook 2.5, cliffhanger 3.0, standalone 2.5); episode context: At the height of Catherine and Rupert's lavish wedding, Juliana is paraded before high society in chains to be publicly disgraced\u2014until a de",
+  "rank": 58
+ },
+ {
+  "ep": 15,
+  "s": 16.4,
+  "e": 36.8,
+  "score": {
+   "total": 9.34,
+   "hook": 3.2,
+   "cliff": 2.5,
+   "standalone": 2.5,
+   "dur": 20.4
+  },
+  "hook": "Juliana: \"Those are medicinal plants!\"",
+  "cliffhanger": "Juliana: \"Leave my garden alone.\"",
+  "segments": [
+   {
+    "episode": 15,
+    "start": "00:16.40",
+    "end": "00:36.80"
+   }
+  ],
+  "why": "Rule score 9.34 (hook 3.2, cliffhanger 2.5, standalone 2.5); episode context: When ruthless thugs desecrate Juliana's medicinal garden and trample her late mother's herbs, a protective Alexander charges into the night ",
+  "rank": 59
+ },
+ {
+  "ep": 21,
+  "s": 31.0,
+  "e": 60.5,
+  "score": {
+   "total": 9.34,
+   "hook": 4.2,
+   "cliff": 1.5,
+   "standalone": 2.5,
+   "dur": 29.5
+  },
+  "hook": "Prudence: \"He is only seven! If you do not come, he will die! You are his only hope, Lady Juliana!\"",
+  "cliffhanger": "Lady Juliana crushes dried herbal leaves into a dark wooden bowl between her bandaged hands, then pours steaming water over them from the kettle.",
+  "segments": [
+   {
+    "episode": 21,
+    "start": "00:31.00",
+    "end": "01:00.50"
+   }
+  ],
+  "why": "Rule score 9.34 (hook 4.2, cliffhanger 1.5, standalone 2.5); episode context: After defying her own despair to cure a fever-stricken village boy with her mother's herbal remedies, Lady Juliana learns that the Dowager D",
+  "rank": 60
+ },
+ {
+  "ep": 27,
+  "s": 78.1,
+  "e": 103.4,
+  "score": {
+   "total": 9.34,
+   "hook": 3.2,
+   "cliff": 2.5,
+   "standalone": 2.5,
+   "dur": 25.3
+  },
+  "hook": "Lady Catherine: \"Who permitted you to give medicine to the Duchess?\"",
+  "cliffhanger": "Blond Nobleman: \"And now we find an unknown maid alone beside her bed...\"",
+  "segments": [
+   {
+    "episode": 27,
+    "start": "01:18.10",
+    "end": "01:43.40"
+   }
+  ],
+  "why": "Rule score 9.34 (hook 3.2, cliffhanger 2.5, standalone 2.5); episode context: The Dowager Duchess realizes Juliana's wedding ring bears the Ashbourne crest belonging to her lost son, but before Juliana can reveal Alexa",
+  "rank": 61
+ },
+ {
+  "ep": 34,
+  "s": 108.0,
+  "e": 128.2,
+  "score": {
+   "total": 9.34,
+   "hook": 3.2,
+   "cliff": 2.5,
+   "standalone": 2.5,
+   "dur": 20.2
+  },
+  "hook": "Lord: \"She calls it healing.\"",
+  "cliffhanger": "Lady Juliana: \"Yes.\"",
+  "segments": [
+   {
+    "episode": 34,
+    "start": "01:48.00",
+    "end": "02:08.20"
+   }
+  ],
+  "why": "Rule score 9.34 (hook 3.2, cliffhanger 2.5, standalone 2.5); episode context: Put on trial for witchcraft and poisoning, Lady Juliana stands proud and defiant in the prisoner's dock, refusing to renounce her mother's h",
+  "rank": 62
+ },
+ {
+  "ep": 37,
+  "s": 105.5,
+  "e": 156.47,
+  "score": {
+   "total": 9.34,
+   "hook": 3.2,
+   "cliff": 2.5,
+   "standalone": 2.5,
+   "dur": 51.0
+  },
+  "hook": "Juliana: \"I will not!\"",
+  "cliffhanger": "Clarissa takes a slow sip of the red wine, her eyes gleaming with dark relish.",
+  "segments": [
+   {
+    "episode": 37,
+    "start": "01:45.50",
+    "end": "02:36.47"
+   }
+  ],
+  "why": "Rule score 9.34 (hook 3.2, cliffhanger 2.5, standalone 2.5); episode context: As Rupert and Catherine issue wedding invitations paired with Juliana's public execution decree to terrorize the county, Juliana endures sta",
+  "rank": 63
+ },
+ {
+  "ep": 40,
+  "s": 69.8,
+  "e": 110.08,
+  "score": {
+   "total": 9.3,
+   "hook": 3.5,
+   "cliff": 3,
+   "standalone": 1,
+   "dur": 40.3
+  },
+  "hook": "Elder Nobleman: \"By sunset, Ashburgh will have its new Duke and Duchess.\"",
+  "cliffhanger": "Rupert and Catherine exchange conspiratorial, triumphant smiles at the altar as the solemn organ chord holds and the scene cuts to black.",
+  "segments": [
+   {
+    "episode": 40,
+    "start": "01:09.80",
+    "end": "01:50.08"
+   }
+  ],
+  "why": "Rule score 9.3 (hook 3.5, cliffhanger 3, standalone 1); episode context: High society gathers at the grand cathedral for Rupert and Catherine's lavish wedding, while the conspirators ensure every exit is sealed to",
+  "rank": 64
+ },
+ {
+  "ep": 8,
+  "s": 39.9,
+  "e": 78.0,
+  "score": {
+   "total": 9.24,
+   "hook": 2.2,
+   "cliff": 3,
+   "standalone": 2.5,
+   "dur": 38.1
+  },
+  "hook": "Juliana: \"You prefer looking like a forest hermit?\"",
+  "cliffhanger": "Juliana maintains her warm, peaceful gaze across the table as soft firelight flickers over her face into fade out.",
+  "segments": [
+   {
+    "episode": 8,
+    "start": "00:39.90",
+    "end": "01:18.00"
+   }
+  ],
+  "why": "Rule score 9.24 (hook 2.2, cliffhanger 3, standalone 2.5); episode context: As Juliana inspects her late mother's weathered herbal grimoire, Alexander bonds with her over rustic medicinal knowledge and war-worn memor",
+  "rank": 65
+ },
+ {
+  "ep": 26,
+  "s": 56.0,
+  "e": 90.5,
+  "score": {
+   "total": 9.24,
+   "hook": 5.2,
+   "cliff": 0,
+   "standalone": 2.5,
+   "dur": 34.5
+  },
+  "hook": "Dowager Duchess: \"Rupert and Catherine want me dead. They are poisoning me in my own bed, aren't they?\"",
+  "cliffhanger": "Juliana rests her right hand against the edge of the bedcover, unwittingly placing the unique ring directly within the Duchess's line of sight.",
+  "segments": [
+   {
+    "episode": 26,
+    "start": "00:56.00",
+    "end": "01:30.50"
+   }
+  ],
+  "why": "Rule score 9.24 (hook 5.2, cliffhanger 0, standalone 2.5); episode context: While secretly administering a charcoal antidote to the poisoned Dowager Duchess in the dead of night, Juliana is stunned when the Duchess s",
+  "rank": 66
+ },
+ {
+  "ep": 46,
+  "s": 26.8,
+  "e": 52.2,
+  "score": {
+   "total": 9.1,
+   "hook": 4.5,
+   "cliff": 1,
+   "standalone": 2.5,
+   "dur": 25.4
+  },
+  "hook": "High Priest: \"Three years later, the beggar is revealed to be a Duke. The marriage does not rise with him.\"",
+  "cliffhanger": "High Priest: \"...because a frightened village priest has no authority to bind a peer.\"",
+  "segments": [
+   {
+    "episode": 46,
+    "start": "00:26.80",
+    "end": "00:52.20"
+   }
+  ],
+  "why": "Rule score 9.1 (hook 4.5, cliffhanger 1, standalone 2.5); episode context: The High Priest places the sanctuary under Crown seizure and invalidates Alexander and Juliana's wedding for lack of royal license, promptin",
+  "rank": 67
+ },
+ {
+  "ep": 12,
+  "s": 60.8,
+  "e": 87.21000000000001,
+  "score": {
+   "total": 9.04,
+   "hook": 4.2,
+   "cliff": 2.5,
+   "standalone": 1,
+   "dur": 26.4
+  },
+  "hook": "Gerald: \"A lady's hands will be shredded to ribbons!\"",
+  "cliffhanger": "Juliana locks eyes with Clarissa without flinching as the scene freezes on her brave, sacrificial defiance.",
+  "segments": [
+   {
+    "episode": 12,
+    "start": "01:00.80",
+    "end": "01:27.21"
+   }
+  ],
+  "why": "Rule score 9.04 (hook 4.2, cliffhanger 2.5, standalone 1); episode context: When the Constable attempts to arrest Alexander for grand theft, Clarissa offers Juliana a sadistic ultimatum: retrieve a signet ring from f",
+  "rank": 68
+ },
+ {
+  "ep": 25,
+  "s": 83.5,
+  "e": 125.0,
+  "score": {
+   "total": 9.0,
+   "hook": 3.5,
+   "cliff": 1.5,
+   "standalone": 2.5,
+   "dur": 41.5
+  },
+  "hook": "Juliana: \"Arsenic.\"",
+  "cliffhanger": "Alexander takes both of her hands into his own, gripping them tightly.",
+  "segments": [
+   {
+    "episode": 25,
+    "start": "01:23.50",
+    "end": "02:05.00"
+   }
+  ],
+  "why": "Rule score 9.0 (hook 3.5, cliffhanger 1.5, standalone 2.5); episode context: Deep in the misty forest, Alexander confronts an injured Juliana and uncovers the wound inflicted by Lady Catherine, reacting with fury and ",
+  "rank": 69
+ },
+ {
+  "ep": 31,
+  "s": 43.2,
+  "e": 83.2,
+  "score": {
+   "total": 9.0,
+   "hook": 2.5,
+   "cliff": 2.5,
+   "standalone": 2.5,
+   "dur": 40.0
+  },
+  "hook": "Catherine: \"No. You became a disgrace when Gerald left you standing at the altar.\"",
+  "cliffhanger": "Juliana: \"I call it love.\"",
+  "segments": [
+   {
+    "episode": 31,
+    "start": "00:43.20",
+    "end": "01:23.20"
+   }
+  ],
+  "why": "Rule score 9.0 (hook 2.5, cliffhanger 2.5, standalone 2.5); episode context: Catherine enters the wet cells armed with a red-hot iron and Juliana's late mother's botanical book, subjecting the chained heiress to ruthl",
+  "rank": 70
+ },
+ {
+  "ep": 50,
+  "s": 31.0,
+  "e": 80.0,
+  "score": {
+   "total": 9.0,
+   "hook": 2.5,
+   "cliff": 2.5,
+   "standalone": 2.5,
+   "dur": 49.0
+  },
+  "hook": "Father Thomas: \"Absolution is free. Discretion has a price.\"",
+  "cliffhanger": "Agnes's jaw drops open in shock as she stifles a cry.",
+  "segments": [
+   {
+    "episode": 50,
+    "start": "00:31.00",
+    "end": "01:20.00"
+   }
+  ],
+  "why": "Rule score 9.0 (hook 2.5, cliffhanger 2.5, standalone 2.5); episode context: Following their illicit passion in the abandoned manor wing, Catherine negotiates Father Thomas's corrupt silence with territorial control\u2014u",
+  "rank": 71
+ },
+ {
+  "ep": 50,
+  "s": 0.0,
+  "e": 30.2,
+  "score": {
+   "total": 9.0,
+   "hook": 3.5,
+   "cliff": 1.5,
+   "standalone": 2.5,
+   "dur": 30.2
+  },
+  "hook": "Catherine: \"A man in your collar isn't supposed to have that much left in him, Thomas.\"",
+  "cliffhanger": "Catherine: \"That's not absolution, Thomas. That's a fortune.\"",
+  "segments": [
+   {
+    "episode": 50,
+    "start": "00:00.00",
+    "end": "00:30.20"
+   }
+  ],
+  "why": "Rule score 9.0 (hook 3.5, cliffhanger 1.5, standalone 2.5); episode context: Following their illicit passion in the abandoned manor wing, Catherine negotiates Father Thomas's corrupt silence with territorial control\u2014u",
+  "rank": 72
+ },
+ {
+  "ep": 17,
+  "s": 58.8,
+  "e": 116.0,
+  "score": {
+   "total": 8.74,
+   "hook": 2.2,
+   "cliff": 3.0,
+   "standalone": 2.5,
+   "dur": 57.2
+  },
+  "hook": "Alexander: \"Of them?\"",
+  "cliffhanger": "Juliana: \"But every day, he gives me another reason to trust him.\"",
+  "segments": [
+   {
+    "episode": 17,
+    "start": "00:58.80",
+    "end": "01:56.00"
+   }
+  ],
+  "why": "Rule score 8.74 (hook 2.2, cliffhanger 3.0, standalone 2.5); episode context: In the aftermath of the brutal attack, Alexander repairs Juliana's devastated garden and swears to protect her with his life, drawing them i",
+  "rank": 73
+ },
+ {
+  "ep": 29,
+  "s": 24.8,
+  "e": 53.6,
+  "score": {
+   "total": 8.74,
+   "hook": 4.2,
+   "cliff": 1,
+   "standalone": 2.5,
+   "dur": 28.8
+  },
+  "hook": "Catherine: \"You still call this a legacy?\"",
+  "cliffhanger": "Catherine: \"And when they find your corpse at the end of the rope...\"",
+  "segments": [
+   {
+    "episode": 29,
+    "start": "00:24.80",
+    "end": "00:53.60"
+   }
+  ],
+  "why": "Rule score 8.74 (hook 4.2, cliffhanger 1, standalone 2.5); episode context: Thrown into the castle's subterranean wet cells as Catherine threatens to burn her mother's herbarium and frame her for witchcraft, Juliana ",
+  "rank": 74
+ },
+ {
+  "ep": 18,
+  "s": 103.8,
+  "e": 148.5,
+  "score": {
+   "total": 8.64,
+   "hook": 2.2,
+   "cliff": 2.5,
+   "standalone": 2.5,
+   "dur": 44.7
+  },
+  "hook": "Juliana: \"The window!\"",
+  "cliffhanger": "Juliana: \"Why would anyone do this?\"",
+  "segments": [
+   {
+    "episode": 18,
+    "start": "01:43.80",
+    "end": "02:28.50"
+   }
+  ],
+  "why": "Rule score 8.64 (hook 2.2, cliffhanger 2.5, standalone 2.5); episode context: When their cottage is deliberately set ablaze in the dead of night, Alexander risks his life to rescue Juliana and her mother's cherished le",
+  "rank": 75
+ },
+ {
+  "ep": 32,
+  "s": 71.3,
+  "e": 112.8,
+  "score": {
+   "total": 8.64,
+   "hook": 3.2,
+   "cliff": 1.5,
+   "standalone": 2.5,
+   "dur": 41.5
+  },
+  "hook": "Catherine: \"You were rejected!\"",
+  "cliffhanger": "Juliana: \"Nothing. Until you have nothing left beneath it.\"",
+  "segments": [
+   {
+    "episode": 32,
+    "start": "01:11.30",
+    "end": "01:52.80"
+   }
+  ],
+  "why": "Rule score 8.64 (hook 3.2, cliffhanger 1.5, standalone 2.5); episode context: Cornered and chained in the damp dungeon, Juliana shatters Catherine's cruelty with unshakeable dignity and the truth about love and worth, ",
+  "rank": 76
+ },
+ {
+  "ep": 37,
+  "s": 56.2,
+  "e": 95.5,
+  "score": {
+   "total": 8.64,
+   "hook": 3.2,
+   "cliff": 1.5,
+   "standalone": 2.5,
+   "dur": 39.3
+  },
+  "hook": "Nobleman: \"What?\"",
+  "cliffhanger": "Juliana curls her fingers back, pulling away from the foul sustenance in defiance.",
+  "segments": [
+   {
+    "episode": 37,
+    "start": "00:56.20",
+    "end": "01:35.50"
+   }
+  ],
+  "why": "Rule score 8.64 (hook 3.2, cliffhanger 1.5, standalone 2.5); episode context: As Rupert and Catherine issue wedding invitations paired with Juliana's public execution decree to terrorize the county, Juliana endures sta",
+  "rank": 77
+ },
+ {
+  "ep": 22,
+  "s": 19.1,
+  "e": 63.8,
+  "score": {
+   "total": 8.4,
+   "hook": 3.5,
+   "cliff": 1,
+   "standalone": 2.5,
+   "dur": 44.7
+  },
+  "hook": "Lady Juliana: \"The Duchess is dying.\"",
+  "cliffhanger": "Lady Juliana: \"Yes, ma'am.\"",
+  "segments": [
+   {
+    "episode": 22,
+    "start": "00:19.10",
+    "end": "01:03.80"
+   }
+  ],
+  "why": "Rule score 8.4 (hook 3.5, cliffhanger 1, standalone 2.5); episode context: Disguised as a common scullery maid, Lady Juliana infiltrates Ashbury Manor alongside Prudence and slips into the forbidden West Wing, where",
+  "rank": 78
+ },
+ {
+  "ep": 9,
+  "s": 3.6,
+  "e": 23.9,
+  "score": {
+   "total": 8.14,
+   "hook": 2.2,
+   "cliff": 2.5,
+   "standalone": 2.5,
+   "dur": 20.3
+  },
+  "hook": "Alexander: \"Stay back. I'll open it.\"",
+  "cliffhanger": "Peasant Mother: \"Since yesterday morning. He has barely eaten since sunset.\"",
+  "segments": [
+   {
+    "episode": 9,
+    "start": "00:03.60",
+    "end": "00:23.90"
+   }
+  ],
+  "why": "Rule score 8.14 (hook 2.2, cliffhanger 2.5, standalone 2.5); episode context: When a frantic mother brings her critically ill child to the woodland cottage, Juliana successfully cures him with her mother's herbal remed",
+  "rank": 79
+ },
+ {
+  "ep": 24,
+  "s": 6.8,
+  "e": 30.8,
+  "score": {
+   "total": 8.14,
+   "hook": 2.2,
+   "cliff": 2.5,
+   "standalone": 2.5,
+   "dur": 24.0
+  },
+  "hook": "Noblewoman: \"Who are you?\"",
+  "cliffhanger": "Noblewoman: \"Then let her suffer.\"",
+  "segments": [
+   {
+    "episode": 24,
+    "start": "00:06.80",
+    "end": "00:30.80"
+   }
+  ],
+  "why": "Rule score 8.14 (hook 2.2, cliffhanger 2.5, standalone 2.5); episode context: When an arrogant noblewoman catches Juliana in the poisoned Dowager Duchess's chambers, she strikes Juliana with a riding crop and sentences",
+  "rank": 80
+ },
+ {
+  "ep": 47,
+  "s": 27.0,
+  "e": 48.0,
+  "score": {
+   "total": 8.14,
+   "hook": 3.2,
+   "cliff": 1.5,
+   "standalone": 2.5,
+   "dur": 21.0
+  },
+  "hook": "Juliana: \"What if they strip your title? Because of me?\"",
+  "cliffhanger": "Alexander gently pulls Juliana closer, his hands resting securely on her shoulders.",
+  "segments": [
+   {
+    "episode": 47,
+    "start": "00:27.00",
+    "end": "00:48.00"
+   }
+  ],
+  "why": "Rule score 8.14 (hook 3.2, cliffhanger 1.5, standalone 2.5); episode context: While Alexander reassures Juliana of their unbreakable bond amid the council's opposition, a destitute Catherine begs for sanctuary at Ashbo",
+  "rank": 81
+ },
+ {
+  "ep": 12,
+  "s": 26.8,
+  "e": 58.0,
+  "score": {
+   "total": 8.04,
+   "hook": 3.2,
+   "cliff": 1,
+   "standalone": 2.5,
+   "dur": 31.2
+  },
+  "hook": "Juliana: \"You planted it!\"",
+  "cliffhanger": "Gerald bursts into a loud, mocking laugh beside the stony Constable.",
+  "segments": [
+   {
+    "episode": 12,
+    "start": "00:26.80",
+    "end": "00:58.00"
+   }
+  ],
+  "why": "Rule score 8.04 (hook 3.2, cliffhanger 1, standalone 2.5); episode context: When the Constable attempts to arrest Alexander for grand theft, Clarissa offers Juliana a sadistic ultimatum: retrieve a signet ring from f",
+  "rank": 82
+ },
+ {
+  "ep": 5,
+  "s": 23.1,
+  "e": 48.8,
+  "score": {
+   "total": 7.9,
+   "hook": 3.5,
+   "cliff": 1,
+   "standalone": 2.5,
+   "dur": 25.7
+  },
+  "hook": "Lord Ashcroft: \"Your inheritance is revoked.\"",
+  "cliffhanger": "Lady Ashcroft: \"...that belongs to this family.\"",
+  "segments": [
+   {
+    "episode": 5,
+    "start": "00:23.10",
+    "end": "00:48.80"
+   }
+  ],
+  "why": "Rule score 7.9 (hook 3.5, cliffhanger 1, standalone 2.5); episode context: Formally disowned and stripped of her inheritance, Juliana is publicly humiliated when her stepmother throws her late mother's treasured led",
+  "rank": 83
+ },
+ {
+  "ep": 14,
+  "s": 7.7,
+  "e": 28.5,
+  "score": {
+   "total": 7.9,
+   "hook": 3.5,
+   "cliff": 1,
+   "standalone": 2.5,
+   "dur": 20.8
+  },
+  "hook": "Juliana: \"I found it.\"",
+  "cliffhanger": "Juliana: \"Nothing they didn't promise.\"",
+  "segments": [
+   {
+    "episode": 14,
+    "start": "00:07.70",
+    "end": "00:28.50"
+   }
+  ],
+  "why": "Rule score 7.9 (hook 3.5, cliffhanger 1, standalone 2.5); episode context: After Juliana secures Alexander's freedom with the unearthed emerald signet ring, he carries her home to bandage her torn hands, silently sw",
+  "rank": 84
+ },
+ {
+  "ep": 38,
+  "s": 20.5,
+  "e": 45.2,
+  "score": {
+   "total": 7.9,
+   "hook": 3.5,
+   "cliff": 1,
+   "standalone": 2.5,
+   "dur": 24.7
+  },
+  "hook": "Guard: \"Eat it before they see.\"",
+  "cliffhanger": "Juliana: \"Do you know they condemned me?\"",
+  "segments": [
+   {
+    "episode": 38,
+    "start": "00:20.50",
+    "end": "00:45.20"
+   }
+  ],
+  "why": "Rule score 7.9 (hook 3.5, cliffhanger 1, standalone 2.5); episode context: A compassionate guard secretly feeds Juliana bread in the dungeon, strengthening her resolve to protect Alexander's secrets just as distant ",
+  "rank": 85
+ },
+ {
+  "ep": 7,
+  "s": 57.8,
+  "e": 88.5,
+  "score": {
+   "total": 7.8,
+   "hook": 2.5,
+   "cliff": 1.5,
+   "standalone": 2.5,
+   "dur": 30.7
+  },
+  "hook": "Juliana: \"I chose a man who stood beside me when you walked away.\"",
+  "cliffhanger": "Aristocratic Woman: \"Gerald, don't let him frighten you.\"",
+  "segments": [
+   {
+    "episode": 7,
+    "start": "00:57.80",
+    "end": "01:28.50"
+   }
+  ],
+  "why": "Rule score 7.8 (hook 2.5, cliffhanger 1.5, standalone 2.5); episode context: When Gerald and his spiteful companion arrive at the woodland cottage to mock Juliana's fallen status, her stoic new husband returns from th",
+  "rank": 86
+ },
+ {
+  "ep": 41,
+  "s": 14.0,
+  "e": 44.2,
+  "score": {
+   "total": 7.8,
+   "hook": 2.5,
+   "cliff": 1.5,
+   "standalone": 2.5,
+   "dur": 30.2
+  },
+  "hook": "Catherine: \"Bring her in.\"",
+  "cliffhanger": "Catherine: \"Lady Juliana Ashcroft. Look around.\"",
+  "segments": [
+   {
+    "episode": 41,
+    "start": "00:14.00",
+    "end": "00:44.20"
+   }
+  ],
+  "why": "Rule score 7.8 (hook 2.5, cliffhanger 1.5, standalone 2.5); episode context: At the height of Catherine and Rupert's lavish wedding, Juliana is paraded before high society in chains to be publicly disgraced\u2014until a de",
+  "rank": 87
+ },
+ {
+  "ep": 11,
+  "s": 23.0,
+  "e": 53.6,
+  "score": {
+   "total": 7.74,
+   "hook": 4.2,
+   "cliff": 1,
+   "standalone": 1,
+   "dur": 30.6
+  },
+  "hook": "Juliana: \"You never even entered the cottage!\"",
+  "cliffhanger": "Alexander: \"Let them.\"",
+  "segments": [
+   {
+    "episode": 11,
+    "start": "00:23.00",
+    "end": "00:53.60"
+   }
+  ],
+  "why": "Rule score 7.74 (hook 4.2, cliffhanger 1, standalone 1); episode context: Gerald and Clarissa arrive at the cottage with an armed constable accusing Alexander of grand theft, culminating in a devastating planted di",
+  "rank": 88
+ },
+ {
+  "ep": 13,
+  "s": 45.8,
+  "e": 80.5,
+  "score": {
+   "total": 7.74,
+   "hook": 5.2,
+   "cliff": 0,
+   "standalone": 1,
+   "dur": 34.7
+  },
+  "hook": "Alexander: \"Juliana, stop!\"",
+  "cliffhanger": "Juliana: \"Ah!\"",
+  "segments": [
+   {
+    "episode": 13,
+    "start": "00:45.80",
+    "end": "01:20.50"
+   }
+  ],
+  "why": "Rule score 7.74 (hook 5.2, cliffhanger 0, standalone 1); episode context: Defying Alexander's desperate pleas, Juliana crawls barehanded into the razor-sharp blackthorn garden, enduring brutal lacerations under Cla",
+  "rank": 89
+ },
+ {
+  "ep": 19,
+  "s": 5.1,
+  "e": 25.2,
+  "score": {
+   "total": 7.3,
+   "hook": 2.5,
+   "cliff": 1.5,
+   "standalone": 2.5,
+   "dur": 20.1
+  },
+  "hook": "Juliana: \"My mother's book almost burned with it.\"",
+  "cliffhanger": "Elder Villager: \"You saved my son's life.\"",
+  "segments": [
+   {
+    "episode": 19,
+    "start": "00:05.10",
+    "end": "00:25.20"
+   }
+  ],
+  "why": "Rule score 7.3 (hook 2.5, cliffhanger 1.5, standalone 2.5); episode context: Standing before the smoldering ash of their home, Juliana and Alexander receive shelter and food from grateful villagers before Alexander me",
+  "rank": 90
+ },
+ {
+  "ep": 16,
+  "s": 25.8,
+  "e": 49.6,
+  "score": {
+   "total": 7.24,
+   "hook": 4.2,
+   "cliff": 1,
+   "standalone": 1,
+   "dur": 23.8
+  },
+  "hook": "Third Thug: \"Stay back!\"",
+  "cliffhanger": "Alexander: \"Who?!\"",
+  "segments": [
+   {
+    "episode": 16,
+    "start": "00:25.80",
+    "end": "00:49.60"
+   }
+  ],
+  "why": "Rule score 7.24 (hook 4.2, cliffhanger 1, standalone 1); episode context: When hired thugs attack Juliana's medicinal garden, Alexander unleashes his combat training to effortlessly overpower them, extracting a sho",
+  "rank": 91
+ },
+ {
+  "ep": 6,
+  "s": 30.15,
+  "e": 64.1,
+  "score": {
+   "total": 7.2,
+   "hook": 2.5,
+   "cliff": 1,
+   "standalone": 2.5,
+   "dur": 33.9
+  },
+  "hook": "Juliana: \"At least no one there will be waiting to humiliate me.\"",
+  "cliffhanger": "Juliana: \"But not because of you.\"",
+  "segments": [
+   {
+    "episode": 6,
+    "start": "00:30.15",
+    "end": "01:04.10"
+   }
+  ],
+  "why": "Rule score 7.2 (hook 2.5, cliffhanger 1, standalone 2.5); episode context: Seeking shelter from the cold rain, Juliana arrives at her new husband's modest woodland cottage and discovers an unexpected sense of peace ",
+  "rank": 92
+ },
+ {
+  "ep": 10,
+  "s": 5.1,
+  "e": 49.0,
+  "score": {
+   "total": 6.84,
+   "hook": 3.2,
+   "cliff": 0,
+   "standalone": 2.5,
+   "dur": 43.9
+  },
+  "hook": "Juliana: \"Alexander!\"",
+  "cliffhanger": "Alexander: \"It is over.\"",
+  "segments": [
+   {
+    "episode": 10,
+    "start": "00:05.10",
+    "end": "00:49.00"
+   }
+  ],
+  "why": "Rule score 6.84 (hook 3.2, cliffhanger 0, standalone 2.5); episode context: When Alexander returns to the cottage gravely wounded and soaked in blood, Juliana tends to his injuries, leading to an intimate confrontati",
+  "rank": 93
+ },
+ {
+  "ep": 17,
+  "s": 16.8,
+  "e": 58.0,
+  "score": {
+   "total": 6.84,
+   "hook": 3.2,
+   "cliff": 0,
+   "standalone": 2.5,
+   "dur": 41.2
+  },
+  "hook": "Alexander: \"For what?\"",
+  "cliffhanger": "Juliana: \"I was frightened.\"",
+  "segments": [
+   {
+    "episode": 17,
+    "start": "00:16.80",
+    "end": "00:58.00"
+   }
+  ],
+  "why": "Rule score 6.84 (hook 3.2, cliffhanger 0, standalone 2.5); episode context: In the aftermath of the brutal attack, Alexander repairs Juliana's devastated garden and swears to protect her with his life, drawing them i",
+  "rank": 94
+ },
+ {
+  "ep": 49,
+  "s": 72.6,
+  "e": 103.2,
+  "score": {
+   "total": 6.84,
+   "hook": 2.2,
+   "cliff": 1,
+   "standalone": 2.5,
+   "dur": 30.6
+  },
+  "hook": "Father Thomas: \"What is it you actually need from me, Catherine? Say it plainly, for once.\"",
+  "cliffhanger": "Catherine: \"Is that so unreasonable coming from a woman the church itself just humiliated back into relevance?\"",
+  "segments": [
+   {
+    "episode": 49,
+    "start": "01:12.60",
+    "end": "01:43.20"
+   }
+  ],
+  "why": "Rule score 6.84 (hook 2.2, cliffhanger 1, standalone 2.5); episode context: Meeting Father Thomas in an abandoned wing of the manor before dawn, Catherine orchestrates a calculated conspiracy to stall the council hea",
+  "rank": 95
+ },
+ {
+  "ep": 8,
+  "s": 10.5,
+  "e": 38.9,
+  "score": {
+   "total": 6.7,
+   "hook": 2.5,
+   "cliff": 1,
+   "standalone": 2.5,
+   "dur": 28.4
+  },
+  "hook": "Juliana: \"Yarrow.\"",
+  "cliffhanger": "Alexander: \"Let them grow.\"",
+  "segments": [
+   {
+    "episode": 8,
+    "start": "00:10.50",
+    "end": "00:38.90"
+   }
+  ],
+  "why": "Rule score 6.7 (hook 2.5, cliffhanger 1, standalone 2.5); episode context: As Juliana inspects her late mother's weathered herbal grimoire, Alexander bonds with her over rustic medicinal knowledge and war-worn memor",
+  "rank": 96
+ },
+ {
+  "ep": 40,
+  "s": 26.2,
+  "e": 48.3,
+  "score": {
+   "total": 6.7,
+   "hook": 2.5,
+   "cliff": 1,
+   "standalone": 2.5,
+   "dur": 22.1
+  },
+  "hook": "Lord Harrington: \"She won't be seeing anything for long.\"",
+  "cliffhanger": "Lady Harrington: \"And everything that comes after it.\"",
+  "segments": [
+   {
+    "episode": 40,
+    "start": "00:26.20",
+    "end": "00:48.30"
+   }
+  ],
+  "why": "Rule score 6.7 (hook 2.5, cliffhanger 1, standalone 2.5); episode context: High society gathers at the grand cathedral for Rupert and Catherine's lavish wedding, while the conspirators ensure every exit is sealed to",
+  "rank": 97
+ },
+ {
+  "ep": 48,
+  "s": 2.4,
+  "e": 30.8,
+  "score": {
+   "total": 6.7,
+   "hook": 2.5,
+   "cliff": 1,
+   "standalone": 2.5,
+   "dur": 28.4
+  },
+  "hook": "Catherine: \"Two words, and that healer's crown rolls right back into the gutter where it belongs.\"",
+  "cliffhanger": "Agnes: \"You sent for me, my lady?\"",
+  "segments": [
+   {
+    "episode": 48,
+    "start": "00:02.40",
+    "end": "00:30.80"
+   }
+  ],
+  "why": "Rule score 6.7 (hook 2.5, cliffhanger 1, standalone 2.5); episode context: While feigning submission after her public humiliation, Catherine schemes in secret, plotting to use the council's ten-day reprieve to strik",
+  "rank": 98
+ },
+ {
+  "ep": 42,
+  "s": 11.2,
+  "e": 33.8,
+  "score": {
+   "total": 6.04,
+   "hook": 3.2,
+   "cliff": 1,
+   "standalone": 1,
+   "dur": 22.6
+  },
+  "hook": "Blond Nobleman: \"Who are you?\"",
+  "cliffhanger": "Blond Nobleman: \"You cannot be him. Alexander died!\"",
+  "segments": [
+   {
+    "episode": 42,
+    "start": "00:11.20",
+    "end": "00:33.80"
+   }
+  ],
+  "why": "Rule score 6.04 (hook 3.2, cliffhanger 1, standalone 1); episode context: Emerging from the smoke of the shattered cathedral gates in full ducal regalia, Alexander confronts Rupert, wins the loyalty of the royal gu",
+  "rank": 99
+ },
+ {
+  "ep": 39,
+  "s": 23.3,
+  "e": 48.1,
+  "score": {
+   "total": 5.5,
+   "hook": 2.5,
+   "cliff": 0,
+   "standalone": 2.5,
+   "dur": 24.8
+  },
+  "hook": "Loyalist Fighter: \"Ours.\"",
+  "cliffhanger": "Cart Driver: \"The road is clear.\"",
+  "segments": [
+   {
+    "episode": 39,
+    "start": "00:23.30",
+    "end": "00:48.10"
+   }
+  ],
+  "why": "Rule score 5.5 (hook 2.5, cliffhanger 0, standalone 2.5); episode context: While Alexander's loyal men infiltrate and neutralize the royal guards stationed outside the cathedral, Alexander sheds his rugged disguise,",
+  "rank": 100
+ }
+]
